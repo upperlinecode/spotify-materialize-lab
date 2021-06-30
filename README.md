@@ -1,4 +1,7 @@
 # Spotify Materialize Lab
+
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/spotify-materialize-lab)](https://repl.it/github/upperlinecode/spotify-materialize-lab)
+
 ## The Goal
 Once you know how to use Materialize's components, creating professional web interfaces is possible in a much shorter amount of time. Your job in this lab is to implement and modify Materialize components to recreate the website of one of the most popular applications -- Spotify. You may already have completed the footer (it's okay if you haven't!) and now it's time to put the whole page together following the steps below. You can see the completed version at [spotify.com](https://www.spotify.com/us/). Make sure you're logged out, otherwise your screen will look different! Please note that none of the pieces you build need to work just yet -- links can be broken, etc. We're just trying to recreate the look of the home page. 
 ## The Lab
